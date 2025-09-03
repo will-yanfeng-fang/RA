@@ -1,3 +1,5 @@
+#same as one but it has grid line.
+
 install.packages(c("tidyverse", "readxl", "ggrepel", "scales"))  
 library(tidyverse)
 library(readxl)

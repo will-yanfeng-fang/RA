@@ -1,3 +1,5 @@
+#1. White background, No grid line, OECD starts at 60, No equation, No $ for x-axis.
+
 install.packages(c("tidyverse", "readxl", "ggrepel", "scales"))  
 library(tidyverse)
 library(readxl)
@@ -20,15 +22,6 @@ df <- read_excel("data.xlsx") |>
 
 y_breaks <- seq(0, 100, by = 10)
 
-# Define a theme with white background + grid lines
-my_theme <- theme_classic(base_size = 12) +
-  theme(
-    plot.title = element_text(face = "bold", size = 16),
-    panel.grid.major = element_line(color = "grey85", size = 0.5),
-    panel.grid.minor = element_line(color = "grey90", size = 0.25),
-    panel.background = element_rect(fill = "white", colour = NA)
-  )
-
 # 2) Scatter (Ln GDPpc vs SPI)
 p_scatter <- ggplot(df, aes(x = lgdp, y = spi)) +
   geom_point(alpha = 0.8, size = 2) +
@@ -39,8 +32,9 @@ p_scatter <- ggplot(df, aes(x = lgdp, y = spi)) +
     y = "Social Progress Index (2025)"
   ) +
   scale_x_continuous(breaks = pretty_breaks(8)) +
-  scale_y_continuous(breaks = y_breaks, limits = c(25, 100), expand = c(0, 0)) +
-  my_theme
+  scale_y_continuous(breaks = y_breaks, limits = c(25, 100), expand = c(0, 0)) + 
+  theme_classic(base_size = 12) +
+  theme(plot.title = element_text(face = "bold", size = 16))
 
 ggsave("scatter_lgdp_spi_2025.png", p_scatter,
        width = 24, height = 18, dpi = 300, limitsize = FALSE)
@@ -78,7 +72,8 @@ p_scatter <- ggplot(df_oecd, aes(x = lgdp, y = spi)) +
   scale_y_continuous(breaks = seq(60, 100, by = 5),
                      limits = c(60, 100),
                      expand = c(0, 0)) +
-  my_theme
+  theme_classic(base_size = 12) +
+  theme(plot.title = element_text(face = "bold", size = 16))
 
 ggsave("scatter_lgdp_spi_2025_oecd.png", p_scatter,
        width = 24, height = 18, dpi = 300, limitsize = FALSE)
