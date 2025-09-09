@@ -121,7 +121,7 @@ print(summary(m_log))
 # ===== Plot 1: Linear GDP (show ALL labels) =====
 p_lin <- ggplot(bli_gdp, aes(x = GDPpc_USD_2025, y = BLI)) +
   geom_point(alpha = 0.75, size = 3) +
-  geom_smooth(method = "lm", se = TRUE, linewidth = 0.9) +
+  geom_smooth(method = "lm", se = FALSE, linewidth = 0.9) +
   geom_text_repel(
     aes(label = country),
     size = 3.2,
@@ -148,7 +148,7 @@ ggsave("gdp_vs_bli_2025_linear.png", p_lin, width = 11, height = 8.5, dpi = 300)
 # ===== Plot 2: Log GDP (show ALL labels) =====
 p_log <- ggplot(bli_gdp, aes(x = logG_2025, y = BLI)) +
   geom_point(alpha = 0.75, size = 3) +
-  geom_smooth(method = "lm", se = TRUE, linewidth = 0.9) +
+  geom_smooth(method = "lm", se = FALSE, linewidth = 0.9) +
   geom_text_repel(
     aes(label = country),
     size = 3.2,
@@ -162,8 +162,8 @@ p_log <- ggplot(bli_gdp, aes(x = logG_2025, y = BLI)) +
   ) +
   labs(
     title = "Better Life Index (equal-weight) vs GDP per capita, 2025",
-    subtitle = "Log scale on GDP per capita (base 10)",
-    x = "log10(GDP per capita, USD; 2025)",
+    subtitle = "Natural log of GDP per capita ",
+    x = "Ln(GDP per capita, USD; 2025)",
     y = "BLI (0–10)"
   ) +
   theme_minimal(base_size = 13) +
