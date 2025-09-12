@@ -1,0 +1,585 @@
+"country","model","effect_trade"
+"Algeria",1,NA
+"Argentina",1,-0.4
+"Australia",1,-0.4
+"Australia - Queensland",1,NA
+"Australia - South Australia",1,NA
+"Australia - Tasmania",1,NA
+"Australia - Victoria",1,NA
+"Australia - Western Australia",1,NA
+"Austria-Hungary",1,-0.4
+"Bahamas",1,NA
+"Barbados",1,NA
+"Belgium",1,-0.4
+"Bermuda",1,NA
+"Bolivia",1,NA
+"Brazil",1,-0.4
+"British Honduras",1,NA
+"Canada",1,-0.4
+"Cape of Good Hope",1,-0.4
+"Ceylon",1,-0.4
+"Chile",1,-0.4
+"China",1,-0.4
+"Colombia",1,-0.4
+"Costa Rica",1,NA
+"Cuba",1,-0.4
+"Denmark",1,-0.4
+"Dominican Republic",1,NA
+"Dutch East Indie",1,-0.4
+"Dutch Guyana",1,NA
+"Ecuador",1,NA
+"Egypt",1,NA
+"El Salvador",1,NA
+"Falklands islands",1,NA
+"Finland",1,-0.4
+"France",1,-0.4
+"Germany",1,-0.4
+"Gold Coast",1,NA
+"Greece",1,-0.4
+"Guadaloupe",1,NA
+"Guatemala",1,NA
+"Guyana",1,NA
+"Haiti",1,NA
+"Iceland",1,NA
+"India - British Possessions",1,NA
+"Italy",1,-0.4
+"Japan",1,-0.4
+"Lagos",1,NA
+"Liberia",1,NA
+"Malta",1,NA
+"Martinique",1,NA
+"Mauritius",1,NA
+"Mexico",1,-0.4
+"Netherlands",1,-0.4
+"New Zealand",1,-0.4
+"Nicaragua",1,NA
+"Norway",1,-0.4
+"Ottoman Empire",1,NA
+"Persia",1,NA
+"Peru",1,NA
+"Philippines",1,NA
+"Portugal",1,-0.4
+"Puerto Rico",1,NA
+"Romania",1,NA
+"Russia",1,NA
+"Siam",1,NA
+"Spain",1,-0.4
+"Straits Settlements",1,NA
+"Sweden",1,-0.4
+"Trinidad and Tobago",1,NA
+"United Kingdom",1,-0.4
+"United States",1,-0.4
+"Uruguay",1,-0.4
+"Venezuela",1,-0.4
+"Virgin Islands",1,NA
+"Algeria",2,NA
+"Argentina",2,-0.395
+"Australia",2,-0.395
+"Australia - Queensland",2,NA
+"Australia - South Australia",2,NA
+"Australia - Tasmania",2,NA
+"Australia - Victoria",2,NA
+"Australia - Western Australia",2,NA
+"Austria-Hungary",2,-0.395
+"Bahamas",2,NA
+"Barbados",2,NA
+"Belgium",2,-0.395
+"Bermuda",2,NA
+"Bolivia",2,NA
+"Brazil",2,-0.395
+"British Honduras",2,NA
+"Canada",2,-0.395
+"Cape of Good Hope",2,-0.395
+"Ceylon",2,-0.395
+"Chile",2,-0.395
+"China",2,-0.395
+"Colombia",2,-0.395
+"Costa Rica",2,NA
+"Cuba",2,-0.395
+"Denmark",2,-0.395
+"Dominican Republic",2,NA
+"Dutch East Indie",2,-0.395
+"Dutch Guyana",2,NA
+"Ecuador",2,NA
+"Egypt",2,NA
+"El Salvador",2,NA
+"Falklands islands",2,NA
+"Finland",2,-0.395
+"France",2,-0.395
+"Germany",2,-0.395
+"Gold Coast",2,NA
+"Greece",2,-0.395
+"Guadaloupe",2,NA
+"Guatemala",2,NA
+"Guyana",2,NA
+"Haiti",2,NA
+"Iceland",2,NA
+"India - British Possessions",2,NA
+"Italy",2,-0.395
+"Japan",2,-0.395
+"Lagos",2,NA
+"Liberia",2,NA
+"Malta",2,NA
+"Martinique",2,NA
+"Mauritius",2,NA
+"Mexico",2,-0.395
+"Netherlands",2,-0.395
+"New Zealand",2,-0.395
+"Nicaragua",2,NA
+"Norway",2,-0.395
+"Ottoman Empire",2,NA
+"Persia",2,NA
+"Peru",2,NA
+"Philippines",2,NA
+"Portugal",2,-0.395
+"Puerto Rico",2,NA
+"Romania",2,NA
+"Russia",2,NA
+"Siam",2,NA
+"Spain",2,-0.395
+"Straits Settlements",2,NA
+"Sweden",2,-0.395
+"Trinidad and Tobago",2,NA
+"United Kingdom",2,-0.395
+"United States",2,-0.395
+"Uruguay",2,-0.395
+"Venezuela",2,-0.395
+"Virgin Islands",2,NA
+"Algeria",3,NA
+"Argentina",3,0.00700000000000001
+"Australia",3,0.00700000000000001
+"Australia - Queensland",3,NA
+"Australia - South Australia",3,NA
+"Australia - Tasmania",3,NA
+"Australia - Victoria",3,NA
+"Australia - Western Australia",3,NA
+"Austria-Hungary",3,0.00700000000000001
+"Bahamas",3,NA
+"Barbados",3,NA
+"Belgium",3,0.00700000000000001
+"Bermuda",3,NA
+"Bolivia",3,NA
+"Brazil",3,-0.241
+"British Honduras",3,NA
+"Canada",3,0.00700000000000001
+"Cape of Good Hope",3,-0.241
+"Ceylon",3,-0.241
+"Chile",3,-0.241
+"China",3,-0.241
+"Colombia",3,-0.241
+"Costa Rica",3,NA
+"Cuba",3,-0.241
+"Denmark",3,0.00700000000000001
+"Dominican Republic",3,NA
+"Dutch East Indie",3,-0.241
+"Dutch Guyana",3,NA
+"Ecuador",3,NA
+"Egypt",3,NA
+"El Salvador",3,NA
+"Falklands islands",3,NA
+"Finland",3,-0.241
+"France",3,0.00700000000000001
+"Germany",3,0.00700000000000001
+"Gold Coast",3,NA
+"Greece",3,-0.241
+"Guadaloupe",3,NA
+"Guatemala",3,NA
+"Guyana",3,NA
+"Haiti",3,NA
+"Iceland",3,NA
+"India - British Possessions",3,NA
+"Italy",3,0.00700000000000001
+"Japan",3,-0.241
+"Lagos",3,NA
+"Liberia",3,NA
+"Malta",3,NA
+"Martinique",3,NA
+"Mauritius",3,NA
+"Mexico",3,-0.241
+"Netherlands",3,0.00700000000000001
+"New Zealand",3,-0.241
+"Nicaragua",3,NA
+"Norway",3,-0.241
+"Ottoman Empire",3,NA
+"Persia",3,NA
+"Peru",3,NA
+"Philippines",3,NA
+"Portugal",3,-0.241
+"Puerto Rico",3,NA
+"Romania",3,NA
+"Russia",3,NA
+"Siam",3,NA
+"Spain",3,-0.241
+"Straits Settlements",3,NA
+"Sweden",3,-0.241
+"Trinidad and Tobago",3,NA
+"United Kingdom",3,0.00700000000000001
+"United States",3,0.00700000000000001
+"Uruguay",3,0.00700000000000001
+"Venezuela",3,-0.241
+"Virgin Islands",3,NA
+"Algeria",4,NA
+"Argentina",4,-0.058
+"Australia",4,-0.058
+"Australia - Queensland",4,NA
+"Australia - South Australia",4,NA
+"Australia - Tasmania",4,NA
+"Australia - Victoria",4,NA
+"Australia - Western Australia",4,NA
+"Austria-Hungary",4,-0.058
+"Bahamas",4,NA
+"Barbados",4,NA
+"Belgium",4,-0.058
+"Bermuda",4,NA
+"Bolivia",4,NA
+"Brazil",4,-0.219
+"British Honduras",4,NA
+"Canada",4,-0.058
+"Cape of Good Hope",4,-0.219
+"Ceylon",4,-0.219
+"Chile",4,-0.219
+"China",4,-0.219
+"Colombia",4,-0.219
+"Costa Rica",4,NA
+"Cuba",4,-0.219
+"Denmark",4,-0.058
+"Dominican Republic",4,NA
+"Dutch East Indie",4,-0.219
+"Dutch Guyana",4,NA
+"Ecuador",4,NA
+"Egypt",4,NA
+"El Salvador",4,NA
+"Falklands islands",4,NA
+"Finland",4,-0.219
+"France",4,-0.058
+"Germany",4,-0.058
+"Gold Coast",4,NA
+"Greece",4,-0.219
+"Guadaloupe",4,NA
+"Guatemala",4,NA
+"Guyana",4,NA
+"Haiti",4,NA
+"Iceland",4,NA
+"India - British Possessions",4,NA
+"Italy",4,-0.058
+"Japan",4,-0.219
+"Lagos",4,NA
+"Liberia",4,NA
+"Malta",4,NA
+"Martinique",4,NA
+"Mauritius",4,NA
+"Mexico",4,-0.219
+"Netherlands",4,-0.058
+"New Zealand",4,-0.219
+"Nicaragua",4,NA
+"Norway",4,-0.219
+"Ottoman Empire",4,NA
+"Persia",4,NA
+"Peru",4,NA
+"Philippines",4,NA
+"Portugal",4,-0.219
+"Puerto Rico",4,NA
+"Romania",4,NA
+"Russia",4,NA
+"Siam",4,NA
+"Spain",4,-0.219
+"Straits Settlements",4,NA
+"Sweden",4,-0.219
+"Trinidad and Tobago",4,NA
+"United Kingdom",4,-0.058
+"United States",4,-0.058
+"Uruguay",4,-0.058
+"Venezuela",4,-0.219
+"Virgin Islands",4,NA
+"Algeria",5,NA
+"Argentina",5,-0.419
+"Australia",5,-0.419
+"Australia - Queensland",5,NA
+"Australia - South Australia",5,NA
+"Australia - Tasmania",5,NA
+"Australia - Victoria",5,NA
+"Australia - Western Australia",5,NA
+"Austria-Hungary",5,-0.419
+"Bahamas",5,NA
+"Barbados",5,NA
+"Belgium",5,-0.419
+"Bermuda",5,NA
+"Bolivia",5,NA
+"Brazil",5,-0.419
+"British Honduras",5,NA
+"Canada",5,-0.419
+"Cape of Good Hope",5,-0.419
+"Ceylon",5,-0.419
+"Chile",5,-0.419
+"China",5,-0.419
+"Colombia",5,-0.419
+"Costa Rica",5,NA
+"Cuba",5,-0.419
+"Denmark",5,-0.419
+"Dominican Republic",5,NA
+"Dutch East Indie",5,-0.419
+"Dutch Guyana",5,NA
+"Ecuador",5,NA
+"Egypt",5,NA
+"El Salvador",5,NA
+"Falklands islands",5,NA
+"Finland",5,-0.419
+"France",5,-0.419
+"Germany",5,-0.419
+"Gold Coast",5,NA
+"Greece",5,-0.419
+"Guadaloupe",5,NA
+"Guatemala",5,NA
+"Guyana",5,NA
+"Haiti",5,NA
+"Iceland",5,NA
+"India - British Possessions",5,NA
+"Italy",5,-0.419
+"Japan",5,-0.419
+"Lagos",5,NA
+"Liberia",5,NA
+"Malta",5,NA
+"Martinique",5,NA
+"Mauritius",5,NA
+"Mexico",5,-0.419
+"Netherlands",5,-0.419
+"New Zealand",5,-0.419
+"Nicaragua",5,NA
+"Norway",5,-0.419
+"Ottoman Empire",5,NA
+"Persia",5,NA
+"Peru",5,NA
+"Philippines",5,NA
+"Portugal",5,-0.419
+"Puerto Rico",5,NA
+"Romania",5,NA
+"Russia",5,NA
+"Siam",5,NA
+"Spain",5,-0.419
+"Straits Settlements",5,NA
+"Sweden",5,-0.419
+"Trinidad and Tobago",5,NA
+"United Kingdom",5,-0.419
+"United States",5,-0.419
+"Uruguay",5,-0.419
+"Venezuela",5,-0.419
+"Virgin Islands",5,NA
+"Algeria",6,NA
+"Argentina",6,-0.407
+"Australia",6,-0.407
+"Australia - Queensland",6,NA
+"Australia - South Australia",6,NA
+"Australia - Tasmania",6,NA
+"Australia - Victoria",6,NA
+"Australia - Western Australia",6,NA
+"Austria-Hungary",6,-0.407
+"Bahamas",6,NA
+"Barbados",6,NA
+"Belgium",6,-0.407
+"Bermuda",6,NA
+"Bolivia",6,NA
+"Brazil",6,-0.407
+"British Honduras",6,NA
+"Canada",6,-0.407
+"Cape of Good Hope",6,-0.407
+"Ceylon",6,-0.407
+"Chile",6,-0.407
+"China",6,-0.407
+"Colombia",6,-0.407
+"Costa Rica",6,NA
+"Cuba",6,-0.407
+"Denmark",6,-0.407
+"Dominican Republic",6,NA
+"Dutch East Indie",6,-0.407
+"Dutch Guyana",6,NA
+"Ecuador",6,NA
+"Egypt",6,NA
+"El Salvador",6,NA
+"Falklands islands",6,NA
+"Finland",6,-0.407
+"France",6,-0.407
+"Germany",6,-0.407
+"Gold Coast",6,NA
+"Greece",6,-0.407
+"Guadaloupe",6,NA
+"Guatemala",6,NA
+"Guyana",6,NA
+"Haiti",6,NA
+"Iceland",6,NA
+"India - British Possessions",6,NA
+"Italy",6,-0.407
+"Japan",6,-0.407
+"Lagos",6,NA
+"Liberia",6,NA
+"Malta",6,NA
+"Martinique",6,NA
+"Mauritius",6,NA
+"Mexico",6,-0.407
+"Netherlands",6,-0.407
+"New Zealand",6,-0.407
+"Nicaragua",6,NA
+"Norway",6,-0.407
+"Ottoman Empire",6,NA
+"Persia",6,NA
+"Peru",6,NA
+"Philippines",6,NA
+"Portugal",6,-0.407
+"Puerto Rico",6,NA
+"Romania",6,NA
+"Russia",6,NA
+"Siam",6,NA
+"Spain",6,-0.407
+"Straits Settlements",6,NA
+"Sweden",6,-0.407
+"Trinidad and Tobago",6,NA
+"United Kingdom",6,-0.407
+"United States",6,-0.407
+"Uruguay",6,-0.407
+"Venezuela",6,-0.407
+"Virgin Islands",6,NA
+"Algeria",7,NA
+"Argentina",7,-0.075
+"Australia",7,-0.075
+"Australia - Queensland",7,NA
+"Australia - South Australia",7,NA
+"Australia - Tasmania",7,NA
+"Australia - Victoria",7,NA
+"Australia - Western Australia",7,NA
+"Austria-Hungary",7,-0.075
+"Bahamas",7,NA
+"Barbados",7,NA
+"Belgium",7,-0.075
+"Bermuda",7,NA
+"Bolivia",7,NA
+"Brazil",7,-0.26
+"British Honduras",7,NA
+"Canada",7,-0.075
+"Cape of Good Hope",7,-0.26
+"Ceylon",7,-0.26
+"Chile",7,-0.26
+"China",7,-0.26
+"Colombia",7,-0.26
+"Costa Rica",7,NA
+"Cuba",7,-0.26
+"Denmark",7,-0.075
+"Dominican Republic",7,NA
+"Dutch East Indie",7,-0.26
+"Dutch Guyana",7,NA
+"Ecuador",7,NA
+"Egypt",7,NA
+"El Salvador",7,NA
+"Falklands islands",7,NA
+"Finland",7,-0.26
+"France",7,-0.075
+"Germany",7,-0.075
+"Gold Coast",7,NA
+"Greece",7,-0.26
+"Guadaloupe",7,NA
+"Guatemala",7,NA
+"Guyana",7,NA
+"Haiti",7,NA
+"Iceland",7,NA
+"India - British Possessions",7,NA
+"Italy",7,-0.075
+"Japan",7,-0.26
+"Lagos",7,NA
+"Liberia",7,NA
+"Malta",7,NA
+"Martinique",7,NA
+"Mauritius",7,NA
+"Mexico",7,-0.26
+"Netherlands",7,-0.075
+"New Zealand",7,-0.26
+"Nicaragua",7,NA
+"Norway",7,-0.26
+"Ottoman Empire",7,NA
+"Persia",7,NA
+"Peru",7,NA
+"Philippines",7,NA
+"Portugal",7,-0.26
+"Puerto Rico",7,NA
+"Romania",7,NA
+"Russia",7,NA
+"Siam",7,NA
+"Spain",7,-0.26
+"Straits Settlements",7,NA
+"Sweden",7,-0.26
+"Trinidad and Tobago",7,NA
+"United Kingdom",7,-0.075
+"United States",7,-0.075
+"Uruguay",7,-0.075
+"Venezuela",7,-0.26
+"Virgin Islands",7,NA
+"Algeria",8,NA
+"Argentina",8,-0.11
+"Australia",8,-0.11
+"Australia - Queensland",8,NA
+"Australia - South Australia",8,NA
+"Australia - Tasmania",8,NA
+"Australia - Victoria",8,NA
+"Australia - Western Australia",8,NA
+"Austria-Hungary",8,-0.11
+"Bahamas",8,NA
+"Barbados",8,NA
+"Belgium",8,-0.11
+"Bermuda",8,NA
+"Bolivia",8,NA
+"Brazil",8,-0.227
+"British Honduras",8,NA
+"Canada",8,-0.11
+"Cape of Good Hope",8,-0.227
+"Ceylon",8,-0.227
+"Chile",8,-0.227
+"China",8,-0.227
+"Colombia",8,-0.227
+"Costa Rica",8,NA
+"Cuba",8,-0.227
+"Denmark",8,-0.11
+"Dominican Republic",8,NA
+"Dutch East Indie",8,-0.227
+"Dutch Guyana",8,NA
+"Ecuador",8,NA
+"Egypt",8,NA
+"El Salvador",8,NA
+"Falklands islands",8,NA
+"Finland",8,-0.227
+"France",8,-0.11
+"Germany",8,-0.11
+"Gold Coast",8,NA
+"Greece",8,-0.227
+"Guadaloupe",8,NA
+"Guatemala",8,NA
+"Guyana",8,NA
+"Haiti",8,NA
+"Iceland",8,NA
+"India - British Possessions",8,NA
+"Italy",8,-0.11
+"Japan",8,-0.227
+"Lagos",8,NA
+"Liberia",8,NA
+"Malta",8,NA
+"Martinique",8,NA
+"Mauritius",8,NA
+"Mexico",8,-0.227
+"Netherlands",8,-0.11
+"New Zealand",8,-0.227
+"Nicaragua",8,NA
+"Norway",8,-0.227
+"Ottoman Empire",8,NA
+"Persia",8,NA
+"Peru",8,NA
+"Philippines",8,NA
+"Portugal",8,-0.227
+"Puerto Rico",8,NA
+"Romania",8,NA
+"Russia",8,NA
+"Siam",8,NA
+"Spain",8,-0.227
+"Straits Settlements",8,NA
+"Sweden",8,-0.227
+"Trinidad and Tobago",8,NA
+"United Kingdom",8,-0.11
+"United States",8,-0.11
+"Uruguay",8,-0.11
+"Venezuela",8,-0.227
+"Virgin Islands",8,NA

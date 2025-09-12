@@ -1,0 +1,17 @@
+* 00000001
+*! version 1.0.0
+* Do not erase or edit this file
+* It is used by Stata to track the ado and help
+* files you have installed.
+
+S /Applications/Stata/esta
+N esta.pkg
+D  7 Nov 2013
+U 1
+d esta
+d Author: Ben Jann, ETH Zurich, jann@soz.gess.ethz.ch
+d 
+d Distribution-Date: 29nov2006
+f e/esta.ado
+f e/esta.hlp
+e
